@@ -1,0 +1,11 @@
+C:\Users\Ivan\source\repos\SecondHomeWork\SecondHomeWork\bin\Debug\netcoreapp2.1\SecondHomeWork.deps.json
+C:\Users\Ivan\source\repos\SecondHomeWork\SecondHomeWork\bin\Debug\netcoreapp2.1\SecondHomeWork.runtimeconfig.json
+C:\Users\Ivan\source\repos\SecondHomeWork\SecondHomeWork\bin\Debug\netcoreapp2.1\SecondHomeWork.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\SecondHomeWork\SecondHomeWork\bin\Debug\netcoreapp2.1\SecondHomeWork.dll
+C:\Users\Ivan\source\repos\SecondHomeWork\SecondHomeWork\bin\Debug\netcoreapp2.1\SecondHomeWork.pdb
+C:\Users\Ivan\source\repos\SecondHomeWork\SecondHomeWork\obj\Debug\netcoreapp2.1\SecondHomeWork.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\SecondHomeWork\SecondHomeWork\obj\Debug\netcoreapp2.1\SecondHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\SecondHomeWork\SecondHomeWork\obj\Debug\netcoreapp2.1\SecondHomeWork.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\SecondHomeWork\SecondHomeWork\obj\Debug\netcoreapp2.1\SecondHomeWork.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\SecondHomeWork\SecondHomeWork\obj\Debug\netcoreapp2.1\SecondHomeWork.dll
+C:\Users\Ivan\source\repos\SecondHomeWork\SecondHomeWork\obj\Debug\netcoreapp2.1\SecondHomeWork.pdb
