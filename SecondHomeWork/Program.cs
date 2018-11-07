@@ -28,8 +28,9 @@ namespace SecondHomeWork
             }
             Console.WriteLine();
             Console.WriteLine("Итоговый массив");
-            foreach (int i in arr)
-            {
+	    Math.Sort(arr[]);
+            foreach (int i in arr){
+                Console.Write(" {0} ", arr[i]);
             }
             Console.ReadKey();
         }
